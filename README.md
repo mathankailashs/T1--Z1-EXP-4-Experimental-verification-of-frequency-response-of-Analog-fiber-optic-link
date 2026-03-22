@@ -1,5 +1,9 @@
 
 # Exp 4 Experimental verification of frequency response of Analog fiber optic link
+
+## Name : Mathan Kailash S
+## Reg No : 212223060156
+
 # Fiber Optic Link Analysis (660nm)
 
 ## AIM
@@ -64,29 +68,22 @@ current flows through its emitter generating the voltage across the resistance c
 <img width="721" height="292" alt="image" src="https://github.com/user-attachments/assets/599d4fcc-b1e2-45fb-a98d-5f833cade038" />
 
 
----
-
-## BLOCK DIAGR
-
-
----
-
-
 ## TABULATION  
 **Transmission through Analog Link**
 
-| Frequency (Hz) | Output Signal Amplitude (Vo) | Gain = Vo/Vi | Gain in dB |
-|----------------|------------------------------|--------------|------------|
-|                |                              |              |            |
+![WhatsApp Image 2026-03-22 at 6 25 53 PM](https://github.com/user-attachments/assets/612ab3b8-a3ea-424d-9f9e-b6caae1950ff)
+
 
 ---
 
 ## MODEL GRAPH
 
-*(Insert model graph here)*
+![WhatsApp Image 2026-03-22 at 6 26 24 PM](https://github.com/user-attachments/assets/031dddb1-8742-4c8e-be38-649e673f57f1)
 
 ---
 
 ## RESULT
 
-*(Summarize observations and conclusions here)*
+Thus the relationship between input and received signal of a 660nm fiber optic cable using analog link is verified sucessfully.
+
+
